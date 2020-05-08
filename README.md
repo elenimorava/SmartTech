@@ -17,6 +17,8 @@ Our mission is to provide enterprise solutions at competitive prices in the mark
 
 ## CALL CENTER SYSTEMS
 
+![call-center-agent-design-flat-style_23-2147945881](https://user-images.githubusercontent.com/62887880/81408305-48490900-913d-11ea-950c-14134bae4106.jpg)
+
 Smart-Tech is a company located in Tirana, offering full support for Inbound and Outbound call center activities, as well as for Predictive Systems, Telephone Bar, IVR and CRM software.
 
 ## WEB AND DESKTOP APPLICATIONS
