@@ -1,3 +1,7 @@
+ <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" >
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    
+
 # About Us
 
 ## Company Overview
@@ -30,6 +34,38 @@ We provide IT support for companies such as Call Center, Insurance and Financial
 Finding an ideal team of developers can be really frustrating. With outsourcing as the best option, this has never been easier. Our nearshore IT services ensure you have time to focus on nurturing your business.
 
 # Technology
+
+## .NET
+
+ <ul>
+                  <li><i class="fa fa-check-circle" ></i> 13+ years of experience in .NET development</li>
+                   <li><i class="fa fa-check-circle" ></i> 10+ .NET developers</li>
+                   <li><i class="fa fa-check-circle" ></i> 10+ successfully released projects</li>
+                   <li><i class="fa fa-check-circle" ></i> 2+ projects in progress</li>
+ </ul>
+ 
+ ## Qt
+ 
+ <ul>
+                  <li><i class="fa fa-check-circle" ></i> 4+ years of experience Qt development</li>
+                   <li><i class="fa fa-check-circle" ></i> 4+ Qt developers</li>
+                   <li><i class="fa fa-check-circle" ></i> 2+ successfully released projects</li>
+                   <li><i class="fa fa-check-circle" ></i> 1+ projects in progress</li>
+   </ul>
+   
+   ## Other
+   
+   <ul>
+                  <li><i class="fa fa-check-circle" ></i> Statistical</li>
+                   <li><i class="fa fa-check-circle" ></i> Databases</li>
+                   <li><i class="fa fa-check-circle" ></i> Cloud Platforms</li>
+                   <li><i class="fa fa-check-circle" ></i>  Deployment Environments</li>
+                   <li><i class="fa fa-check-circle" ></i>  Web Development</li>
+                   <li><i class="fa fa-check-circle" ></i> QA, Testing Tools & Frameworks</li>
+                   <li><i class="fa fa-check-circle" ></i>  Repository Control</li>
+   </ul>
+   
+   
 
 
               
