@@ -1,2 +1,1 @@
-# header
-Smart-Tech
+# Smart-Tech
