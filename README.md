@@ -40,7 +40,7 @@ Finding an ideal team of developers can be really frustrating. With outsourcing 
                    <li><i class="fa fa-check-circle" ></i> 2+ projects in progress</li>
  </ul>
  
- ## Qt
+## Qt
  
  <ul>
                   <li><i class="fa fa-check-circle" ></i> 4+ years of experience Qt development</li>
@@ -49,7 +49,7 @@ Finding an ideal team of developers can be really frustrating. With outsourcing 
                    <li><i class="fa fa-check-circle" ></i> 1+ projects in progress</li>
    </ul>
    
-   ## Other
+## Other
    
    <ul>
                   <li><i class="fa fa-check-circle" ></i> Statistical</li>
