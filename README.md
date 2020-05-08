@@ -1,3 +1,5 @@
+![0](https://user-images.githubusercontent.com/62887880/81408187-1041c600-913d-11ea-84b5-74fe083398e9.png)
+
 # About Us
 
 ## Company Overview
