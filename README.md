@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html>
   <head>
     <meta  name="viewport" content="width=device-width, initial-scale=1">
@@ -245,7 +245,7 @@
     <h1>Contact Us</h1>
     <div class="row">
      <div class="col-md-6">
-       <form id"contact-form" method="post" action="contact-form-handler.php">
+       
          <div class="form-group">
            <input type="name" class="form-control" placeholder="Your Name" required><br>
          </div>
@@ -257,7 +257,7 @@
            <button type="submit" class="btn btn-primary">Send Message</button>
          </div>
          
-       </form>
+       
       </div>
       <div class="col-md-6">
          <div class="follow"><b>City:</b> <i class="fa fa-map-pin" ></i>Tirana,Albania</div>
