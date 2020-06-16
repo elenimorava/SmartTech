@@ -122,7 +122,7 @@
         </div>
         <h3>CALL CENTER SYSTEM</h3>
         <p>Smart-Tech is a company located in Tirana, offering full support for Inbound and Outbound call center activities, as well as for Predictive Systems, Telephone Bar, IVR and CRM software.</p>
-           <a class="nav-link" href="call.html">  <button type="submit" class="btn btn-primary">Read More</button></a>
+         
     
       </div>
       
@@ -132,7 +132,7 @@
         </div>
         <h3>WEB AND DESKTOP APPLICATIONS</h3>
         <p>Despite the kind of support that you need Smart–Tech will be your valuable partner in the field of Information and Technology. No matter what your needs can be, we will always provide our qualitative services in order to help you build a promising future for your business.</p>
-           <a class="nav-link" href="web.html">  <button type="submit" class="btn btn-primary">Read More</button></a>
+          
     
       </div>
       
@@ -152,7 +152,7 @@
         </div>
         <h3>NEARSHORING</h3>
         <p>Finding an ideal team of developers can be really frustrating. With outsourcing as the best option, this has never been easier. Our nearshore IT services ensure you have time to focus on nurturing your business.</p>
-              <a class="nav-link" href="near.html">  <button type="submit" class="btn btn-primary">Read More</button></a>
+             
     
       </div>
       
