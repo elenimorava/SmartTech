@@ -142,8 +142,7 @@
         </div>
         <h3>APPLICATION MAINTENANCE AND SUPPORT</h3>
         <p>We provide IT support for companies such as Call Center, Insurance and Financial. Our services can be provided on a 24/7/365 basis. .</p>
-            <a class="nav-link" href="app.html">  <button type="submit" class="btn btn-primary">Read More</button></a>
-    
+           
       </div>
       
        <div class="col-md-3 text-center">
